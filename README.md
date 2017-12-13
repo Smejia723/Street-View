@@ -1,9 +1,15 @@
 # Street-View
-Using the Google Street View API to show images of locations by inputing address and city to show in the background of a webpage. 
+Using the Google Street View API to show images of locations by inputing address and city to show in the background of a webpage.
+
+# how to use:
+
+-Download files and click on index.html
+
+-Input address and city and Image will appear with NY Articles and Wikipedia links of nearby locations. 
 
 # MIT License
 
-# Copyright (c) 2017 Smejia723
+ Copyright (c) 2017 Smejia723
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
