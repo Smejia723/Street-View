@@ -1,5 +1,5 @@
 # Street-View
-Using the Google Street View API to show images of locations by inputing address and city to show in the background of a webpage.
+Using the Google Street View API to show images of locations by imputing address and city to show in the background of a web-page.
 
 # how to use:
 
